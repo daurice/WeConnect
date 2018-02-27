@@ -101,3 +101,4 @@ virtual/
 
 # mypy
 .mypy_cache/
+. .idea/vcs.xml
